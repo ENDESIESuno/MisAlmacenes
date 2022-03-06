@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fichero desde master
+=======
+Mi fichero de conflicto desde probar
+>>>>>>> probar
